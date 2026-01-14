@@ -1,0 +1,9 @@
+# データベースファイル（自分の記録が入っているため公開しない）
+workout.db
+
+# Pythonの一時ファイル
+__pycache__/
+*.pyc
+
+# VS Codeの設定
+.vscode/
